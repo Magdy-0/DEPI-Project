@@ -1,7 +1,6 @@
 # DEPI-Project
 # VLAN Pentesting Simulation Project 
-#VLAN Pentesting Simulation Project
-#Overview:
+# Overview:
 This project simulates the network of an organization containing three VLANs. Each VLAN consists of different machines and challenges. The primary goal of this project is to perform penetration testing across these VLANs.
 
 Machines Info:
